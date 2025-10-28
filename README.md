@@ -14,7 +14,7 @@
 ---
 
 ### 👋 About Me
-Hi! I'm **Junseop Kim**, a developer and researcher exploring the convergence of **AI, robotics, and creativity**.  
+Hi! I'm **Junsup Kim**, a developer and researcher exploring the convergence of **AI, robotics, and creativity**.  
 I build systems where **deep learning meets real-world devices**, blending art, automation, and intelligence.
 
 ---
