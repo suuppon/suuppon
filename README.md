@@ -6,11 +6,26 @@
 <h3 align="center">🤖 Deep Learning Engineer</h3>
 
 <p align="center">
-  <a href="mailto:albert1226@g.skku.edu"><a href="mailto:albert1226@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-albert1226%40g.skku.edu-blue?logo=gmail&style=flat-square"></a>
-  <a href="https://github.com/suuppon"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-suuppon-181717?logo=github&style=flat-square"></a>
-  <img alt="Visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com%2Fsuuppon%2Fsuuppon&title=visits&edge_flat=false"/>
-</p>
 
+  <!-- SKKU Email -->
+  <a href="mailto:albert1226@g.skku.edu">
+    <img alt="SKKU Email"
+         src="https://img.shields.io/badge/SKKU%20Email-0055A4?style=flat-square&logo=https://raw.githubusercontent.com/suuppon/suuppon/master/assets/skku.png&logoColor=white">
+  </a>
+
+  <!-- Personal Gmail -->
+  <a href="mailto:junghung.kim.kor@gmail.com">
+    <img alt="Gmail"
+         src="https://img.shields.io/badge/Personal%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/suuppon">
+    <img alt="GitHub"
+         src="https://img.shields.io/badge/GitHub-suuppon-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+
+</p>
 ---
 
 ### 👋 About Me
