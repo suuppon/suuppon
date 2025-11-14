@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Junsup%20Kim%20(@suuppon)&fontAlign=50&color=0:8EC5FC,100:E0C3FC&fontColor=2b2b2b" />
 </p>
 
-<h3 align="center">🐍 Python · ⚡ JavaScript Developer</h3>
+<h3 align="center">🤖 Deep Learning Engineer</h3>
 
 <p align="center">
   <a href="mailto:albert1226@g.skku.edu"><a href="mailto:albert1226@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-albert1226%40g.skku.edu-blue?logo=gmail&style=flat-square"></a>
@@ -14,8 +14,8 @@
 ---
 
 ### 👋 About Me
-Hi! I'm **Junsup Kim**, a developer and researcher exploring the convergence of **AI, robotics, and creativity**.  
-I build systems where **deep learning meets real-world devices**, blending art, automation, and intelligence.
+Hi! I'm **Junsup Kim**, a **Deep Learning Engineer** passionate about **Multimodal AI** and **Computer Vision**.  
+I build intelligent systems that understand and process visual and multimodal data, pushing the boundaries of what AI can perceive and understand.
 
 ---
 
@@ -38,6 +38,7 @@ I build systems where **deep learning meets real-world devices**, blending art, 
 #### ⚙️ Others
 ![ROS](https://img.shields.io/badge/ROS-Robot%20Operating%20System-22314E?logo=ros)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FF6D5A?logo=n8n)
 ---
 
 ### 📊 GitHub Stats
