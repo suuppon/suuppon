@@ -122,7 +122,7 @@ Working on production-level AI systems focusing on multimodal learning, FSOD, an
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![HailoRT](https://img.shields.io/badge/HailoRT-000000?style=flat-square&logo=ai&logoColor=white)
+![HailoRT](https://img.shields.io/badge/HailoRT-000000?style=flat-square&logo=https://raw.githubusercontent.com/suuppon/suuppon/master/assets/hailo.png&logoColor=white)
 ![Triton](https://img.shields.io/badge/Triton%20Inference-00A3E0?style=flat-square)
 
 **Web & Backend**  
