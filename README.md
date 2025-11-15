@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=600&lines=Junsup+Kim;Deep+Learning+Engineer;Multimodal+AI+%7C+Computer+Vision;Few-shot+Learning+%7C+Edge+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=600&lines=Multimodal+AI+%7C+Computer+Vision;Few-shot+Learning+%7C+Edge+AI" />
 </p>
 
 <h3 align="center">Deep Learning Engineer</h3>
@@ -14,9 +14,6 @@
   </a>
   <a href="mailto:junghung.kim.kor@gmail.com">
     <img alt="Personal Email" src="https://img.shields.io/badge/Personal%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/suuppon">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-suuppon-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
