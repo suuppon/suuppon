@@ -122,13 +122,19 @@ Working on production-level AI systems focusing on multimodal learning, FSOD, an
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton%20Inference-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![HailoRT](https://img.shields.io/badge/HailoRT-000000?style=flat-square&logo=https://raw.githubusercontent.com/suuppon/suuppon/master/assets/hailo.png&logoColor=white)
-![Triton](https://img.shields.io/badge/Triton%20Inference-00A3E0?style=flat-square)
 
 **Web & Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**MLOps & DevOps**  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![lakeFS](https://img.shields.io/badge/lakeFS-1A73E8?style=flat-square&logo=lakefs&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **Robotics & Systems**  
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
