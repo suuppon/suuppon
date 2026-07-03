@@ -9,7 +9,6 @@ My current interests lie in robust and stable machine learning, distribution shi
 **Sungkyunkwan University**, Seoul, Korea  
 B.S. Candidate in Mathematics and Economics  
 Mar. 2021 - Present  
-GPA: 4.22 / 4.5
 
 ## Research Interests
 
