@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.cdnlogo.com/logos/s/47/sungkyunkwan-university.svg" alt="Sungkyunkwan University" width="90" />
+</p>
+
 # Junsup Kim
 
 I am an undergraduate student at Sungkyunkwan University, studying mathematics and economics.
@@ -9,6 +13,7 @@ My current interests lie in robust and stable machine learning, distribution shi
 **Sungkyunkwan University**, Seoul, Korea  
 B.S. Candidate in Mathematics and Economics  
 Mar. 2021 - Present  
+GPA: 4.22 / 4.5
 
 ## Research Interests
 
