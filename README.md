@@ -21,4 +21,9 @@ Mar. 2021 - Present
 **Research Intern, Statistical Decision-Making Lab**  
 KAIST, Daejeon, Korea  
 Advisor: Prof. Hoseung Song  
-Jun. 2026 - Present
+Jun. 2026 - Aug. 2026
+
+**Undergraduate Researcher, AI & Media Lab (AIM Lab)**<br>
+Sungkyunkwan University, Seoul, Korea<br>
+Advisor: Prof. Sungeun Hong<br>
+Mar. 2026 - Jun. 2026
